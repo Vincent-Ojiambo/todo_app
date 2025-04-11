@@ -60,6 +60,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation(libs.androidx.recyclerview)
     implementation(libs.androidx.cardview)
-//    implementation("com.squareup.okhttp3:okhttp:4.9.0")
     implementation(libs.picasso)
 }
