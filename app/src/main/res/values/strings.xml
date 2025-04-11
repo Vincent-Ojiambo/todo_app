@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Todo_App</string>
+    <string name="todo_app_title">Todo_App</string>
+    <string name="enter_todo_id">Enter Todo ID...</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="todo_not_found">Todo not found</string>
+    <string name="network_error">Network Error</string>
+    <string name="please_enter_todo_id">Please enter a Todo ID</string>
+
+    <string name="title_prefix">Title: %s</string>
+    <string name="completed_prefix">Completed: %b</string>
+    <string name="user_id_prefix">User ID: %d</string>
+    <string name="id_prefix">ID: %d</string>
+</resources>
